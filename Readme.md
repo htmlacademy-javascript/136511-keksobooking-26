@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг»
 
 * Студент: [Yaroslav Holoborodko](https://up.htmlacademy.ru/javascript/26/user/136511).
-* Наставник: `Неизвестно`.
+* Наставник: [Дарья Сюткина](https://htmlacademy.ru/profile/id1960205).
 
 ---
 
